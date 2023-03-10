@@ -1333,7 +1333,8 @@ body {
       font-size: .68rem;
       letter-spacing: 2px;
       position: absolute;
-      top: -14px; }
+      top: -14px;
+      left: 0; }
     /* line 575, sass/pages/_about-me.scss */
     .about-me__form-label--2::after {
       content: "*";
@@ -1345,7 +1346,8 @@ body {
       font-size: .68rem;
       letter-spacing: 2px;
       position: absolute;
-      top: -14px; }
+      top: -14px;
+      left: 0; }
     /* line 589, sass/pages/_about-me.scss */
     .about-me__form-label--3::after {
       content: "*";
